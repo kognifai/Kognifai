@@ -12,14 +12,14 @@ To install and configure Kognifai Application Framework, refer to:
 * [Install and Configure Application Framework](https://github.com/kognifai/Core_Documentation/wiki).
 
 ## QuickStart
-* [Step 1. Set up the Development Environment](https://github.com/kognifai/Core_Documentation/blob/master/linkdpages/Set%20up%20the%20Development%20Environment.md)
-* [Step 2. Create a new project](https://github.com/kognifai/Core_Documentation/blob/master/linkdpages/Set%20up%20the%20Development%20Environment.md)
-* [Step 3: Start the application](https://github.com/kognifai/Core_Documentation/blob/master/linkdpages/Set%20up%20the%20Development%20Environment.md)
+* [Step 1. Set up the Development Environment](https://github.com/kognifai/Core_Documentation/blob/master/LinkdPages/Set%20up%20the%20Development%20Environment.md)
+* [Step 2. Create a new project](https://github.com/kognifai/Core_Documentation/blob/master/LinkdPages/Set%20up%20the%20Development%20Environment.md)
+* [Step 3: Start the application](https://github.com/kognifai/Core_Documentation/blob/master/LinkdPages/Set%20up%20the%20Development%20Environment.md)
 
 
 ## Building your First Kognifai App
 You can start building your first Koginifai App by using Yeoman, a scaffolding app. Yeoman app helps you to create the templates for your application. This article provides simple steps on how to use the Yeoman app and the sample codes to jump-start your application development.
-* [Getting Started with Yeoman App](https://github.com/kognifai/Core_Documentation/blob/master/linkdpages/Getting%20Started%20with%20Yeoman%20App.md)
+* [Getting Started with Yeoman App](https://github.com/kognifai/Core_Documentation/blob/master/LinkdPages/Getting%20Started%20with%20Yeoman%20App.md)
 
 ## What will you get
 After creating an empty kognifai application framework App based on the Yeoman template, you will get the following solution structure:
@@ -68,7 +68,7 @@ The newly created sample Widgets Package project is the developer’s entry poin
 * [styles > instruments > _newInstrument.scss](https://github.com/kognifai/Core_Documentation/blob/master//Sample%20Poseidon%20Instrument/styles%20%3E%20instruments%20%3E%20_newInstrument.scss)
 * app > instruments > newInstrument > newInstrument.html
 
-   This is the main view of the new widget. Here you can compose its layout/content.
+i   This is the main view of the new widget. Here you can compose its layout/content.
    
    [sample app > instruments > newInstrument > newInstrument.html](https://github.com/kognifai/Core_Documentation/blob/master//Sample%20Poseidon%20Instrument/app%20%3E%20instruments%20%3E%20newInstrument%20%3E%20newInstrument.html)
 * app > instruments > newInstrument > newInstrumentConfig.ts
@@ -93,13 +93,14 @@ The newly created sample Widgets Package project is the developer’s entry poin
 
   In this file you should include any logic that defines how data is edited and loaded in your widget. Also, it is responsible how the   data will be updated/refreshed.
   
-  [sample App > instruments > newInstrument > newInstrumentDataController.ts](https://github.com/kognifai/Core_Documentation/blob/master//Sample%20Poseidon%20Instrument/App%20%3E%20instruments%20%3E%20newInstrument%20%3E%20newInstrumentDataController.ts
-)
+  [sample App > instruments > newInstrument > newInstrumentDataController.ts](https://github.com/kognifai/Core_Documentation/blob/master//Sample%20Poseidon%20Instrument/App%20%3E%20instruments%20%3E%20newInstrument%20%3E%20newInstrumentDataController.ts)
+  
 * App > instruments > newInstrument > newInstrumentDirective.ts
 
   It defines the web component that encapsulates the widget UI.
   
   [ sample App > instruments > newInstrument > newInstrumentDirective.ts](https://github.com/kognifai/Core_Documentation/blob/master//Sample%20Poseidon%20Instrument/App%20%3E%20instruments%20%3E%20newInstrument%20%3E%20newInstrumentDirective.ts)
+  
 * App > instruments > newInstrument > newInstrumentRegister.ts
 
   It is used to bootstrap the widget and define its meta properties
@@ -120,12 +121,12 @@ The newly created sample Widgets Package project is the developer’s entry poin
 ## Sample Poseidon instrument
 
 #### Quick Start
-* [Step 1. Set up the Development Environment](https://github.com/kognifai/Core_Documentation/blob/master/lnkdpages/Sample%20Poseidon%20Instruments%20Package.md)
-* [Step 2. Create a new project](https://github.com/kognifai/Core_Documentation/blob/master/lnkdpages/Sample%20Poseidon%20Instruments%20Package.md)
-* [Step 3. Run the instrument in the platform](https://github.com/kognifai/Core_Documentation/blob/master/lnkdpages/Sample%20Poseidon%20Instruments%20Package.md)
+* [Step 1. Set up the Development Environment](https://github.com/kognifai/Core_Documentation/blob/master/linkdpages/Sample%20Poseidon%20Instruments%20Package.md)
+* [Step 2. Create a new project](https://github.com/kognifai/Core_Documentation/blob/master/linkdpages/Sample%20Poseidon%20Instruments%20Package.md)
+* [Step 3. Run the instrument in the platform](https://github.com/kognifai/Core_Documentation/blob/master/linkdpages/Sample%20Poseidon%20Instruments%20Package.md)
 
 ### Basic use
-* [Application Files](https://github.com/kognifai/Core_Documentation/blob/master/lnkdpages/Application%20Files.md)
-* [Build Process ](https://github.com/kognifai/Core_Documentation/blob/master/lnkdpages/Build%20Process.md)
+* [Application Files](https://github.com/kognifai/Core_Documentation/blob/master/linkdpages/Application%20Files.md)
+* [Build Process ](https://github.com/kognifai/Core_Documentation/blob/master/linkdpages/Build%20Process.md)
 
 ## License
