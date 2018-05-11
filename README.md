@@ -86,6 +86,7 @@ i   This is the main view of the new widget. Here you can compose its layout/con
    
 * app > instruments > newInstrument > newInstrumentEdit.html
 
+
   In this markup file you should define how the property editing panel of your widget will be laid out.
 
   [ sample app > instruments > newInstrument > newInstrumentEdit.html](https://github.com/kognifai/Core_Documentation/blob/master//Sample%20Poseidon%20Instrument/app%20%3E%20instruments%20%3E%20newInstrument%20%3E%20newInstrumentEdit.html)
@@ -126,7 +127,8 @@ i   This is the main view of the new widget. Here you can compose its layout/con
 * [Step 3. Run the instrument in the platform](https://github.com/kognifai/Core_Documentation/blob/master/linkdpages/Sample%20Poseidon%20Instruments%20Package.md)
 
 ### Basic use
-* [Application Files](https://github.com/kognifai/Core_Documentation/blob/master/linkdpages/Application%20Files.md)
-* [Build Process ](https://github.com/kognifai/Core_Documentation/blob/master/linkdpages/Build%20Process.md)
+* [Application Files](https://github.com/kognifai/Core_Documentation/blob/master/LinkdPages/Application%20Files.md)
+* [Build Process ](https://github.com/kognifai/Core_Documentation/blob/master/LinkdPages/Build%20Process.md)
+
 
 ## License
