@@ -1,0 +1,22 @@
+
+```
+{
+  "name": "HelloPoseidon",
+  "id": "094673d6-9cce-48c4-91ba-85d461e8e623",
+  "version": "1.0.0",
+  "isApplication": true,
+  "dependencies": [ ],
+  "root": "HelloPoseidon/build/",
+  "permissions": [
+    {
+      "permissionId": "4b6695be-2730-4f9e-a5c6-e2b8f51314cd",
+      "name": "view"
+    }
+  ],
+  "files": [
+    "styles/*.css",
+    "js/*.js"
+  ]
+}
+
+```

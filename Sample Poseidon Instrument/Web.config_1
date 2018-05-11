@@ -1,0 +1,18 @@
+Web.config
+
+<?xml version="1.0"?>
+<configuration>
+
+  <system.web>
+    <compilation debug="true" targetFramework="4.5.2" />
+    <httpRuntime targetFramework="4.5.2" />
+  </system.web>
+  <system.webServer>
+    <staticContent>
+      <remove fileExtension=".scss"/>
+      <remove fileExtension=".ts"/>
+      <mimeMap fileExtension=".scss" mimeType="text/scss"/>
+      <mimeMap fileExtension=".ts" mimeType="text/typescript"/>
+    </staticContent>
+  </system.webServer>
+</configuration> 

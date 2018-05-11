@@ -1,0 +1,29 @@
+
+{
+    "version": "1.0.0",
+    "name": "PoseidonWidgetsPackage",
+    "dependencies": {
+        "kongsberg-poseidon-client": "1.4.*"
+    },
+    "typescript": {
+        "definitions": [
+            "build/js/application.d.ts"
+        ]
+    },
+    "devDependencies": {
+        "gulp": "^3.9.0",
+        "gulp-sequence": "^0.4.6",
+        "gulp-task-listing": "^1.0.1",
+        "poseidon-gulp-bundle": "1.4.*",
+        "poseidon-gulp-log": "1.4.*",
+        "poseidon-gulp-publish": "1.4.*",
+        "poseidon-gulp-scripts": "1.4.*",
+        "poseidon-gulp-styles": "1.4.*",
+        "poseidon-gulp-templates": "1.4.*",
+        "poseidon-gulp-typescript": "1.4.*",
+        "yargs": "^3.27.0"
+    },
+    "publishConfig": {
+        "registry": "https://kdi.jfrog.io/kdi/webapp/#/home"
+    }
+}
