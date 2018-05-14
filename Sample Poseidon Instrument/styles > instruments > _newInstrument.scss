@@ -1,0 +1,34 @@
+.newInstrument {
+
+    width: 100%;
+
+    height: 100%;
+
+    display: table;
+
+    position: absolute;
+
+
+    .newInstrument-text{
+
+        display: table-cell;
+
+        text-align: center;
+
+        vertical-align: middle;
+
+    }
+
+}
+
+.newInstrument-edit {
+
+    .newInstrument-config-right {
+
+        float: right;
+
+        width: 75%;
+
+    }
+
+}
