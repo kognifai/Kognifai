@@ -1,5 +1,5 @@
 
-__Welcome to Kognifai Application Framework__. This repository guides you to create your first Poseidon Module, Widget, a Kognifai (Yeoman) application and samples for each of them.
+__Welcome to Kognifai Application Framework__. This repository guides you to create your first Poseidon module, Widget, a Kognifai application and samples for each of them.
 
 ## Create Your First Module 
 Creating Kognifai application has its own specifications as it is the  same case with any other platforms. Application Framework provides a Visual Studio project template to create the basic artefacts required by Kognifai. 
@@ -82,15 +82,15 @@ The newly created sample Widgets Package project is the developer’s entry poin
       * create your property panel structure,
       * define custom/private properties (aside from the ones in the ‘config’) 
 
-   [sample app >  instruments > newInstrument > newInstrumentController.ts code](https://github.com/kognifai/Core_Documentation/blob/master//Sample%20Poseidon%20Instrument/app%20%3E%20%20instruments%20%3E%20newInstrument%20%3E%20newInstrumentController.ts)
+   [sample app >  instruments > newInstrument > newInstrumentController.ts code](https://github.com/kognifai/Core_Documentation/blob/master/Sample%20Poseidon%20Instrument/app%20%3E%20instruments%20%3E%20newInstrument%20%3E%20newInstrumentController.ts)
    
 * app > instruments > newInstrument > newInstrumentEdit.html
-
 
   In this markup file you should define how the property editing panel of your widget will be laid out.
 
   [ sample app > instruments > newInstrument > newInstrumentEdit.html](https://github.com/kognifai/Core_Documentation/blob/master//Sample%20Poseidon%20Instrument/app%20%3E%20instruments%20%3E%20newInstrument%20%3E%20newInstrumentEdit.html)
-https://github.com/kognifai/Core_Documentation/blob/master/LinkedPages/Build%20Process.md* App > instruments > newInstrument > newInstrumentDataController.ts
+
+* App > instruments > newInstrument > newInstrumentDataController.ts
 
   In this file you should include any logic that defines how data is edited and loaded in your widget. Also, it is responsible how the   data will be updated/refreshed.
   
