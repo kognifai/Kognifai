@@ -131,5 +131,5 @@ The newly created sample Widgets Package project is the developer’s entry poin
 * [Build Process ](https://github.com/kognifai/Core_Documentation/blob/master/LinkedPages/Build%20Process.md)
 
 
-## License
+# License
 Read the copyright information and terms and conditions for Usage and Development of the software [here]( https://github.com/kognifai/Core_Documentation/blob/master/LinkedPages/License.md)
