@@ -22,7 +22,7 @@ You can start building your first Koginifai App by using Yeoman, a scaffolding a
 * [Getting Started with Yeoman App](https://github.com/kognifai/Core_Documentation/blob/master/LinkedPages/Getting%20Started%20with%20Yeoman%20App.md)
 
 ## What will you get
-After creating an empty kognifai application framework App based on the Yeoman template, you will get the following solution structure:
+After creating an empty Kognifai application framework App based on the Yeoman template, you will get the following solution structure:
 
 ![](https://github.com/kognifai/Core_Documentation/blob/master/images/node_modules.png)
 
