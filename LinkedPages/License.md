@@ -5,7 +5,7 @@ Permission is hereby granted to obtain a copy of this software in binary form in
 
 - The Software is provided free of charge, and can be used for development and test purposes only.
 
--	The user respects that the Software is licensed and always property of Kongsberg Digital AS
+-	The user respects that the Software is licensed and always property of Kongsberg Digital AS.
 
 -	The user has no right to use the Software for commercial purposes.
 
