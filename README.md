@@ -14,7 +14,7 @@ To install and configure Kognifai Application Framework, refer to:
 ## QuickStart
 * [Step 1. Set up the Development Environment](https://github.com/kognifai/Core_Documentation/blob/master/LinkedPages/Set%20up%20the%20Development%20Environment.md)
 * [Step 2. Create a new project](https://github.com/kognifai/Core_Documentation/blob/master/LinkedPages/Set%20up%20the%20Development%20Environment.md)
-* [Step 3: Start the application](https://github.com/kognifai/Core_Documentation/blob/master/LinkedPages/Set%20up%20the%20Development%20Environment.md)
+* [Step 3. Start the application](https://github.com/kognifai/Core_Documentation/blob/master/LinkedPages/Set%20up%20the%20Development%20Environment.md)
 
 
 ## Build your First Kognifai App
@@ -51,11 +51,11 @@ After creating an empty Kognifai application framework App based on the Yeoman t
     
 * install-module.cmd
 
-    This file simplifies the registration of the module in kognifai Application Framework.
+    This file simplifies the registration of the module in Kognifai Application Framework.
 
 * uninstall-module.cmd
 
-    This file simplifies the uninstallation of the module in kognifai Application Framework.
+    This file simplifies the uninstallation of the module in Kognifai Application Framework.
   
  ## Create Sample Poseidon Instrument 
 The successfull creation of an empty Poseidon Instruments Package results a sample instrument package structure that can be populated with instruments such as dashboard instruments. This article provides a sample code for a platform instrument that you can use to jump-start your development. 
