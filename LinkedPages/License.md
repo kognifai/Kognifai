@@ -1,4 +1,4 @@
-Copyright © [year] Kongsberg Digital AS
+Copyright © 2018 Kongsberg Digital AS
 
 Permission is hereby granted to obtain a copy of this software in binary form including associated documentation files
  (the “Software”) to use the Software, subject to all of the following:
