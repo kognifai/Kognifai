@@ -14,7 +14,7 @@ For example **SamplePoseidonInstrument**:
 #### Step 3: Run the instrument in the platform
 
 Now we need to build our new project. 
-Wait the npm to download all of its packages and when the build finishes right-click on the project from the source in the solution explorer. Choose Properties and then Web from the left navigation menu:
+Wait for the npm to download all of its packages and when the build finishes right-click on the project from the source in the solution explorer. Choose Properties and then Web from the left navigation menu:
 
 ![](https://github.com/kognifai/Core_Documentation/blob/master/images/SamplePoseidonInstrument_Web.png)
 
