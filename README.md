@@ -1,4 +1,6 @@
 
+![Home Image](https://github.com/kognifai/Kognifai/blob/master/images/Kognifai.png)
+
 __Welcome to Kognifai Application Framework__. This repository guides you to create your first Poseidon module, Widget, a Kognifai application and provides samples for each of them.
 
 ## Create Your First Module 
