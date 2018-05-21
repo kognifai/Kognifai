@@ -1,6 +1,6 @@
 #### Getting Started with Yeoman App
 
-To get started with the Yeoman app, you will need [nodejs version 8](https://nodejs.org/en/blog/release/v8.0.0/) or above to run the app. The Yeoman application is based on generators that allows users to generate their own files or generators to run the application. 
+To get started with the Yeoman app, you will need [nodejs version 8 or later](https://nodejs.org/en/) to run the app. The Yeoman application is based on generators that allows users to generate their own files or generators to run the application. 
 
 #### Step 1. The first step is to install Yeoman. Use the following code for installation:
 ```
