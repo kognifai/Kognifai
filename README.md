@@ -5,14 +5,13 @@ Together, it will help you build smart data-driven prototypes, apps, solutions, 
 
 Here you will find information, instructions and guidelines on Poseidon Framework, Intfrastructure, Storage and IoT Services. 
 
-Poseidon Next – Framework 
+## (Poseidon Next – Framework) [https://github.com/kognifai/PoseidonNext-Framework/wiki]
 The section provides a quick introduction of the Poseidon Next Framework and its services and help you set up your development environment. 
 
-IoT
-
+##IoT
 Data Management, Analytics and IoT Platform capabilities of the platform are described in detail in the IoTsection 
  
-Infrastructure 
+##Infrastructure 
 The Galore section provide a high-level introduction to the globally distributed and secure network.
 
 Have fun and have a great development experience with the kognifai.
