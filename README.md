@@ -8,11 +8,11 @@ Here you will find information, instructions and guidelines on Poseidon Framewor
 ### [Poseidon Next – Framework](https://github.com/kognifai/PoseidonNext-Framework/wiki)
 The section provides a quick introduction of the Poseidon Next Framework and its services and help you set up your development environment. 
 
-##[IoT](https://github.com/kognifai/IoT/wiki)
-Data Management, Analytics and IoT Platform capabilities of the platform are described in detail in the IoTsection 
+###[IoT](https://github.com/kognifai/IoT/wiki)
+Data Management, Analytics and IoT Platform capabilities of the platform are described in detail in the IoT section 
  
 ##Infrastructure 
-The Galore section provide a high-level introduction to the globally distributed and secure network.
+The Galore section provides a high-level introduction to the globally distributed and secure network.
 
 Have fun and have a great development experience with the kognifai.
 
