@@ -5,7 +5,7 @@ Together, it will help you build smart data-driven prototypes, apps, solutions, 
 
 Here you will find information, instructions and guidelines on Poseidon Framework, Intfrastructure, Storage and IoT Services. 
 
-## [Poseidon Next – Framework] (https://github.com/kognifai/PoseidonNext-Framework/wiki)
+## [Poseidon Next – Framework](https://github.com/kognifai/PoseidonNext-Framework/wiki)
 The section provides a quick introduction of the Poseidon Next Framework and its services and help you set up your development environment. 
 
 ##IoT
