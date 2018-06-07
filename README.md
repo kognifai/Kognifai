@@ -1,4 +1,4 @@
-![](https://github.com/kognifai/Kognifai/blob/master/.attachments/Kognifai1.png)
+![](https://github.com/kognifai/Kognifai/blob/master/.attachments/Kognifai_H.png)
 # About Kognifai
 
 Welcome to the Kognifai Software Developer Kit. Kognifai is an industrial platform for accessing data, applying advanced analytics, running applications and accelerating digitalization initiatives in your industrial world.
