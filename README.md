@@ -43,12 +43,6 @@ In this SDK you will find documentation on how to write your own Poseidon applic
     - [Statistics Service](https://github.com/kognifai/PoseidonNext-Framework/blob/master/SDK-documentation/Statistics-Service.md) 
     - [Tools Menu Service](https://github.com/kognifai/PoseidonNext-Framework/blob/master/SDK-documentation/Tools-Menu-Service.md)
     - [Unit Of Measurement Service](https://github.com/kognifai/PoseidonNext-Framework/blob/master/SDK-documentation/Unit-Of-Measurement-Service.md)
-    
-    
-
-
-
-
 
  ## [Galore](https://github.com/kognifai/Galore/blob/master/README.md)
  
@@ -66,6 +60,13 @@ This industrial quality database supports storage, analytics and distribution of
 The Galore database is built upon the concept of streams where all data is quarriable either through the built in advanced Timeseries Query Language (TQL) or through the APIs.
 
 In the SDK you will find detailed information on how to access and start using Galore, how to get starting using the TQL language and how to use the APIs.
+ -  [Galore](https://github.com/kognifai/Galore/blob/master/README.md)
+      - [Galore Asset Model](https://github.com/kognifai/Galore/blob/master/SDK-documentation/TQL.md)
+      - [Streams](https://github.com/kognifai/Galore/blob/master/SDK-documentation/streams.md)
+      - [TQL Syntax](https://github.com/kognifai/Galore/blob/master/SDK-documentation/TQL%20Syntax.md)
+      - [Node Selector](https://github.com/kognifai/Galore/blob/master/SDK-documentation/Node%20Selector.md) 
+      - [Pipeline Operations](https://github.com/kognifai/Galore/blob/master/SDK-documentation/Pipeline%20Operations.md)
+      - [Case Study](https://github.com/kognifai/Galore/blob/master/SDK-documentation/casestudy.md)
 
 ## [Kognifai IoT](https://github.com/kognifai/IoT)
 The Kognifai IoT Platform is an industrial solution for securely connecting, managing and integrating remote devices and systems. Targeting everything from embedded sensors to energy production facilities, the platform is capable of scaling to thousands of globally distributed on and offshore installations.
@@ -84,10 +85,23 @@ The Connectors feeds the Kognifai Edge Gateway which is responsible for bufferin
 -	Reliable transfer of data over unreliable communication channels
 -	Logging, health and security data reporting
 
+ -  [Kognifai IoT](https://github.com/kognifai/IoT)
+      - [What is IoT?](https://github.com/kognifai/IoT_Documentation/wiki#what-is-iot-)
+      - [What can you achieve with Kognifai IoT Platform?](https://github.com/kognifai/IoT_Documentation/wiki#what-can-you-achieve-with-kognifai-iot-platform?)
+      - [Part and Parcel of Kognifai IoT platform](https://github.com/kognifai/IoT_Documentation/wiki#what-can-you-achieve-with-kognifai-iot-platform) 
+      - [Commonly used protocols and technologies in Kognifai IoT Platform and deployment](https://github.com/kognifai/IoT/blob/master/SDK%20Documentation/protocols%20and%20technologies.md)
  
 ### [Infrastructure](https://github.com/kognifai/Infrastructure/blob/master/README.md#infrastructure_documentation)
 
 The Kognifai platform provides infrastructure both for Edge and Cloud, as well as the secure connectivity needed between sites, edges, cloud and other platforms.
 
 ![](https://github.com/kognifai/Kognifai/blob/master/.attachments/Infrastructure.jpg)
-
+- [Infrastructure](https://github.com/kognifai/Infrastructure/blob/master/README.md#infrastructure_documentation)
+    - [GSN Overview](https://github.com/kognifai/Infrastructure/edit/master/README.md)
+    * [Life Cycle Management](https://github.com/kognifai/Infrastructure/blob/master/SDK-documentation/GSN%20Overview.md)
+    * [Remote Services](https://github.com/kognifai/Infrastructure/blob/master/SDK-documentation/GSN%20Overview.md)
+    * [Technical Specifications](https://github.com/kognifai/Infrastructure/blob/master/SDK-documentation/GSN%20Overview.md)
+    - [High-level Design](https://github.com/kognifai/Infrastructure/blob/master/SDK-documentation/High-level%20Design.md).
+    - [Securing Internet of Things](https://github.com/kognifai/Infrastructure/blob/master/SDK-documentation/Securing%20Internet%20of%20Things.md).
+     * [Technology Components](https://github.com/kognifai/Infrastructure/blob/master/SDK-documentation/GSN%20Overview.md)
+     
