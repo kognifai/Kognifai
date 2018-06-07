@@ -1,5 +1,5 @@
-![](https://github.com/kognifai/Kognifai/blob/master/.attachments/Kognifai_H.png)
-[<img src="./.attachments/Kognifai_H.png" width="150" hight="90">]()
+
+[<img src="./.attachments/Kognifai_H.png" width="200" hight="200">]()
 # About Kognifai
 
 Welcome to the Kognifai Software Developer Kit. Kognifai is an industrial platform for accessing data, applying advanced analytics, running applications and accelerating digitalization initiatives in your industrial world.
