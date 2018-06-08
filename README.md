@@ -30,7 +30,7 @@ In this SDK you will find documentation on how to write your own Poseidon applic
 -  [Poseidon Next – Framework](https://github.com/kognifai/PoseidonNext-Framework/blob/master/README.md) 
     - [Developers Getting Started page](https://github.com/kognifai/PoseidonNext-Framework/blob/master/Developers-Getting-Started.md)
     - [Attributions](https://github.com/kognifai/PoseidonNext-Framework/blob/master/KognifaiPoseidonNext-Attribution.pdf)
-    - [Services](https://github.com/kognifai/PoseidonNext-Framework/blob/master/SDK-documentation/Authentication-Service.md)
+    - [Services](https://github.com/kognifai/PoseidonNext-Framework/blob/master/Services.md)
     - [Widgets/Dashboard](https://github.com/kognifai/PoseidonNext-Framework/blob/master/SDK-documentation/Dashboards/Creating-a-widget.md)
    
  ## [Galore](https://github.com/kognifai/Galore/blob/master/README.md)
