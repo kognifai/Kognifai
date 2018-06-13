@@ -1,6 +1,7 @@
 
 
 # About Kognifai                                                                            
+[![Join the chat at https://gitter.im/kognifai/Lobby](https://badges.gitter.im/Join%20Chat.svg)]
 
 Welcome to the Kognifai Software Developer Kit. Kognifai is an industrial platform for accessing data, applying advanced analytics, running applications and accelerating digitalization initiatives in your industrial world.
 
