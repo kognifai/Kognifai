@@ -13,7 +13,7 @@ The Kognifai ecosystem consists of an IoT Platform, a sensor database, analytic 
 In this SDK you will find documentation and examples on how to get started developing Kognifai App, Services and Connectors.
 
 
-## [Poseidon Next – Framework](https://github.com/kognifai/PoseidonNext-Framework/blob/master/README.md)  [![Gitter Join the chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kognifai/Lobby)
+## [Poseidon Next – Framework](https://github.com/kognifai/PoseidonNext-Framework/blob/master/README.md) 
 
 Poseidon is the Kognifai web application framework, built on Angular, using the Kognifai Design System. It provides a fast way of developing and deploying new applications to both Kognifai Edge and Kognifai Cloud installations scenarios.
 
@@ -34,7 +34,7 @@ In this SDK you will find documentation on how to write your own Poseidon applic
     - [Services](https://github.com/kognifai/PoseidonNext-Framework/blob/master/Services.md)
     - [Widgets/Dashboard](https://github.com/kognifai/PoseidonNext-Framework/blob/master/SDK-documentation/Dashboards/Creating-a-widget.md)
    
- ## [Galore](https://github.com/kognifai/Galore/blob/master/README.md)  [![Gitter Join the chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kognifai/Lobby)
+ ## [Galore](https://github.com/kognifai/Galore/blob/master/README.md)  
  
 Galore is the Kognifai timeseries and streaming database available both as an on-premise installable database and as a service delivered from the Kognifai cloud. The database is highly scalable and can be installed on everything from a small edge PC to large clusters, supporting the smallest edge analytic scenarios as well as fleet wide global data collection and analytic scenarios.
 
@@ -58,7 +58,7 @@ In this SDK you will find detailed information on how to access and start using 
       - [Pipeline Operations](https://github.com/kognifai/Galore/blob/master/SDK-documentation/Pipeline%20Operations.md)
       - [Case Study](https://github.com/kognifai/Galore/blob/master/SDK-documentation/casestudy.md)
 
-## [Kognifai IoT](https://github.com/kognifai/IoT)  [![Gitter Join the chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kognifai/Lobby)
+## [Kognifai IoT](https://github.com/kognifai/IoT)  
 The Kognifai IoT Platform is an industrial solution for securely connecting, managing and integrating remote devices and systems. Targeting everything from embedded sensors to energy production facilities, the platform is capable of scaling to thousands of globally distributed on and offshore installations.
 
 Kognifai provides self-service portals for roll out and management of customer solutions, as well as a wide range of industrial connectors ensuring safe and reliable connectivity with data sources on the edge. Common connectors available on Kognifai are OPC UA, OPC DA / HDA, ModBus among others.
@@ -81,7 +81,7 @@ The Connectors feeds the Kognifai Edge Gateway which is responsible for bufferin
       - [Part and Parcel of Kognifai IoT platform](https://github.com/kognifai/IoT_Documentation/wiki#what-can-you-achieve-with-kognifai-iot-platform) 
       - [Commonly used protocols and technologies in Kognifai IoT Platform and deployment](https://github.com/kognifai/IoT/blob/master/SDK%20Documentation/protocols%20and%20technologies.md)
  
-### [Infrastructure](https://github.com/kognifai/Infrastructure/blob/master/README.md#infrastructure_documentation)  [![Gitter Join the chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kognifai/Lobby)
+### [Infrastructure](https://github.com/kognifai/Infrastructure/blob/master/README.md#infrastructure_documentation) 
 
 The Kognifai platform provides infrastructure both for Edge and Cloud, as well as the secure connectivity needed between sites, edges, cloud and other platforms.
 
