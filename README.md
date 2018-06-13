@@ -96,4 +96,5 @@ The Kognifai platform provides infrastructure both for Edge and Cloud, as well a
      * [Technology Components](https://github.com/kognifai/Infrastructure/blob/master/SDK-documentation/GSN%20Overview.md)
      
  ### [Let's discuss here](https://github.com/kognifai/Kognifai/issues) 
- By clicking this link you are redirected to Issues tab where you can provide your comments and that is getting posted on Gitter chat room of your repository.
+ Write your queries and discussions here and submit it to post them on Gitter chat room.
+
