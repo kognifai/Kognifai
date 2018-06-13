@@ -8,7 +8,7 @@ Kognifai is available both as an edge installable on-premise installation and as
 
 ![](https://github.com/kognifai/Kognifai/blob/master/.attachments/Kognifai.png)
  
-The Kognifai ecosystem consist an IoT Platform, a sensor database, analytic services, web application framework, network infrastructure, identity management, container and hosting services, Machine Learning platform, APIs, storage and self-service management portals.
+The Kognifai ecosystem consists of an IoT Platform, a sensor database, analytic services, web application framework, network infrastructure, identity management, container and hosting services, Machine Learning platform, APIs, storage and self-service management portals.
 
 In this SDK you will find documentation and examples on how to get started developing Kognifai App, Services and Connectors.
 
@@ -24,7 +24,7 @@ The framework takes responsibility for a range of basic features and is built in
 * Identity Management – Embedded ThinkTecture Identity Server for authentication integration to a range of ID
 *	Responsive Web Design – Support for all screen sizes
 *	Design System – The framework is built on the Kognifai Design System
-*	Edge and Cloud support
+*	Edge and Cloud support - 
 
 In this SDK you will find documentation on how to write your own Poseidon applications, starting with the Poseidon Developer Edition available from https://npmjs.org and the sample application provided.
 
@@ -40,16 +40,16 @@ Galore is the Kognifai timeseries and streaming database available both as an on
 
 This industrial quality database supports storage, analytics and distribution of most sensor like streaming data types:
 
-*	Timeseries data – Single values, vectors or matrixs
+*	Timeseries data – Single values, vectors or matrixes
 *	Alarm & Event data – Indexed, searchable and related text values
 *	Dataset – Larger dataset from high frequency analytic sensors and subsystems
 *	Asset Structures – Mapping of physical industrial plants into structures, supporting templating and advanced graphs
 
  ![](https://github.com/kognifai/Kognifai/blob/master/.attachments/Posedion_Graph.jpg)
 
-The Galore database is built upon the concept of streams where all data is quarriable either through the built in advanced Timeseries Query Language (TQL) or through the APIs.
+The Galore database is built upon the concept of streams where all data is queryable either through the built-in advanced Timeseries Query Language (TQL) or through APIs.
 
-In the SDK you will find detailed information on how to access and start using Galore, how to get starting using the TQL language and how to use the APIs.
+In this SDK you will find detailed information on how to access and start using Galore, how to get starting using the TQL language and how to use the APIs.
  -  [Galore](https://github.com/kognifai/Galore/blob/master/README.md)
       - [Galore Asset Model](https://github.com/kognifai/Galore/blob/master/SDK-documentation/TQL.md)
       - [Streams](https://github.com/kognifai/Galore/blob/master/SDK-documentation/streams.md)
