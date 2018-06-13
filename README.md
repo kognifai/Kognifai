@@ -12,7 +12,6 @@ The Kognifai ecosystem consist an IoT Platform, a sensor database, analytic serv
 
 In this SDK you will find documentation and examples on how to get started developing Kognifai App, Services and Connectors.
 
- [Feedback](https://gitter.im/kognifai/Lobby)
 
 ## [Poseidon Next – Framework](https://github.com/kognifai/PoseidonNext-Framework/blob/master/README.md)
 
@@ -96,3 +95,5 @@ The Kognifai platform provides infrastructure both for Edge and Cloud, as well a
     - [Securing Internet of Things](https://github.com/kognifai/Infrastructure/blob/master/SDK-documentation/Securing%20Internet%20of%20Things.md).
      * [Technology Components](https://github.com/kognifai/Infrastructure/blob/master/SDK-documentation/GSN%20Overview.md)
      
+ ### [Let's discuss here](https://github.com/kognifai/Kognifai/issues) 
+ By clicking this link you are redirected to Issues tab where you can provide your comments and that is getting posted on Gitter chat room of your repository.
