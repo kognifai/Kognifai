@@ -69,10 +69,10 @@ This SDK provides you  samples and documentation on how to build your own custom
 
 The Connectors feed the Kognifai Edge Gateway which is responsible for data buffering in the case of connectivity loss, for compression, for secure authentication and transport encryption to the Kognifai cloud endpoints:
 
--	Secure and reliable transfer of data from the edge to the cloud using AMQP, MQTT or HTTPS over TLS
--	Authentication towards the Kognifai cloud services using certificates or shared secrets
--	Buffering of data to disk supporting offline scenarios
--	Reliable transfer of data over unreliable communication channels
+-	Secure and reliable data transfer from Edge to cloud using AMQP, MQTT or HTTPS over TLS
+-	Authentication towards Kognifai cloud services using certificates or shared secrets
+- Data buffering to support disk offline scenarios
+-	Reliable data transfer over unreliable communication channels
 -	Logging, health and security data reporting
 
  -  [Kognifai IoT](https://github.com/kognifai/IoT)
@@ -83,7 +83,7 @@ The Connectors feed the Kognifai Edge Gateway which is responsible for data buff
  
 ### [Infrastructure](https://github.com/kognifai/Infrastructure/blob/master/README.md#infrastructure_documentation) 
 
-The Kognifai platform provides infrastructure both for Edge and Cloud, as well as the secure connectivity is needed between sites, edges, cloud and other platforms.
+The Kognifai platform provides infrastructure for both Edge and Cloud. The secure connectivity is needed among sites, edges, cloud and other platforms.
 
 ![](https://github.com/kognifai/Kognifai/blob/master/.attachments/Infrastructure.jpg)
 - [Infrastructure](https://github.com/kognifai/Infrastructure/blob/master/README.md#infrastructure_documentation)
