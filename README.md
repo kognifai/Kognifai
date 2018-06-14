@@ -28,6 +28,7 @@ The framework takes responsibility for a range of basic features and is built in
 
 In this SDK you will find documentation on how to develop your own Poseidon applications, starting with the Poseidon Developer Edition available from https://npmjs.org and the sample application is also provided.
 
+### Related Topics
 -  [Poseidon Next – Framework](https://github.com/kognifai/PoseidonNext-Framework/blob/master/README.md) 
     - [Developers Getting Started page](https://github.com/kognifai/PoseidonNext-Framework/blob/master/Developers-Getting-Started.md)
     - [Attributions](https://github.com/kognifai/PoseidonNext-Framework/blob/master/KognifaiPoseidonNext-Attribution.pdf)
@@ -50,6 +51,8 @@ This industrial quality database supports storage, analytics and distribution of
 The Galore database is built upon the concept of streams where all data is queryable either through the built-in advanced Timeseries Query Language (TQL) or through APIs.
 
 In this SDK you will find detailed information on how to access and start using Galore, how to get started using the TQL language and how to use the APIs.
+
+### Related Topics
  -  [Galore](https://github.com/kognifai/Galore/blob/master/README.md)
       - [Galore Asset Model](https://github.com/kognifai/Galore/blob/master/SDK-documentation/TQL.md)
       - [Streams](https://github.com/kognifai/Galore/blob/master/SDK-documentation/streams.md)
@@ -75,6 +78,8 @@ The Connectors feed the Kognifai Edge Gateway which is responsible for data buff
 -	Reliable data transfer over unreliable communication channels
 -	Logging, health and security data reporting
 
+### Related Topics
+
  -  [Kognifai IoT](https://github.com/kognifai/IoT)
       - [What is IoT?](https://github.com/kognifai/IoT_Documentation/wiki#what-is-iot-)
       - [What can you achieve with Kognifai IoT Platform?](https://github.com/kognifai/IoT_Documentation/wiki#what-can-you-achieve-with-kognifai-iot-platform?)
@@ -86,6 +91,8 @@ The Connectors feed the Kognifai Edge Gateway which is responsible for data buff
 The Kognifai platform provides infrastructure for both Edge and Cloud. The secure connectivity is needed among sites, edges, cloud and other platforms.
 
 ![](https://github.com/kognifai/Kognifai/blob/master/.attachments/Infrastructure.jpg)
+
+### Related Topics
 - [Infrastructure](https://github.com/kognifai/Infrastructure/blob/master/README.md#infrastructure_documentation)
     - [GSN Overview](https://github.com/kognifai/Infrastructure/edit/master/README.md)
     * [Life Cycle Management](https://github.com/kognifai/Infrastructure/blob/master/SDK-documentation/GSN%20Overview.md)
