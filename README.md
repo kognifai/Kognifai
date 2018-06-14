@@ -2,9 +2,9 @@
 
 # About Kognifai                    [![Gitter Join the chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kognifai/Lobby)
 
-Welcome to the Kognifai Software Developer Kit. Kognifai is an industrial platform for accessing data, applying advanced analytics, running applications and accelerating digitalization initiatives in your industrial world.
+Welcome to the Kognifai Software Developer Kit! 
 
-Kognifai is available both as an edge installable on-premise installation and as a cloud service, offering secure connectivity and application serving to your global assets.
+Kognifai is an industrial platform for accessing data, applying advanced analytics, running applications and accelerating digitalization initiatives in your industrial world. Kognifai is available both as an Edge on-premise installation and as a cloud service, offering secure connectivity and application services to your global assets.
 
 ![](https://github.com/kognifai/Kognifai/blob/master/.attachments/Kognifai.png)
  
@@ -15,7 +15,7 @@ In this SDK you will find documentation and examples on how to get started devel
 
 ## [Poseidon Next – Framework](https://github.com/kognifai/PoseidonNext-Framework/blob/master/README.md) 
 
-Poseidon is the Kognifai web application framework, built on Angular, using the Kognifai Design System. It provides a fast way of developing and deploying new applications to both Kognifai Edge and Kognifai Cloud installation scenarios.
+Poseidon is the Kognifai web application framework, built on Angular, by using the Kognifai Design System. It provides a fast way of developing and deploying new applications to both Kognifai Edge and Kognifai Cloud installation scenarios.
 
 The framework takes responsibility for a range of basic features and is built in a modular way which opens up for different adaption levels.
 
@@ -26,7 +26,7 @@ The framework takes responsibility for a range of basic features and is built in
 *	Design System – The framework is built on the Kognifai Design System
 *	Edge and Cloud support - 
 
-In this SDK you will find documentation on how to write your own Poseidon applications, starting with the Poseidon Developer Edition available from https://npmjs.org and the sample application provided.
+In this SDK you will find documentation on how to develop your own Poseidon applications, starting with the Poseidon Developer Edition available from https://npmjs.org and the sample application is also provided.
 
 -  [Poseidon Next – Framework](https://github.com/kognifai/PoseidonNext-Framework/blob/master/README.md) 
     - [Developers Getting Started page](https://github.com/kognifai/PoseidonNext-Framework/blob/master/Developers-Getting-Started.md)
@@ -67,7 +67,7 @@ This SDK provides you  samples and documentation on how to build your own custom
 
  ![](https://github.com/kognifai/Kognifai/blob/master/.attachments/IoT.png)
 
-The Connectors feed the Kognifai Edge Gateway which is responsible for data buffering in the case of connectivity loss, for compression, for secure authentication and transport encryption to the Kognifai cloud endpoints:
+The Connectors feed the Kognifai Edge Gateway which is responsible for data buffering in the case of connectivity loss, for compression, for secure authentication and for transport encryption to the Kognifai cloud endpoints:
 
 -	Secure and reliable data transfer from Edge to cloud using AMQP, MQTT or HTTPS over TLS
 -	Authentication towards Kognifai cloud services using certificates or shared secrets
