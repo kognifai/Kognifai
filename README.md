@@ -6,7 +6,8 @@ Welcome to the Kognifai Software Developer Kit!
 
 Kognifai is an industrial platform for accessing data, applying advanced analytics, running applications and accelerating digitalization initiatives in your industrial world. Kognifai is available both as an Edge on-premise installation and as a cloud service, offering secure connectivity and application services to your global assets.
 
-![](https://github.com/kognifai/Kognifai/blob/master/.attachments/Kognifai.png)
+
+![image.png](.attachments/Kognifai.png)
  
 The Kognifai ecosystem consists of an IoT Platform, a sensor database, analytic services, web application framework, network infrastructure, identity management, container and hosting services, machine learning platform, APIs, storage and self-service management portals.
 
