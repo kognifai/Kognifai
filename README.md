@@ -20,7 +20,7 @@ Poseidon is the Kognifai web application framework, built on Angular, by using t
 
 The framework takes responsibility for a range of basic features and is built in a modular way which opens up for different adaption levels.
 
-![](https://github.com/kognifai/Kognifai/blob/master/.attachments/Posedion.jpg)
+![](.attachments/Posedion.jpg)
  
 * Identity Management – Embedded ThinkTecture Identity Server for authentication integration to a range of ID
 *	Responsive Web Design – Support for all screen sizes
@@ -47,7 +47,7 @@ This industrial quality database supports storage, analytics and distribution of
 *	Dataset – Larger dataset from high frequency analytic sensors and subsystems
 *	Asset Structures – Mapping of physical industrial plants into structures, supporting templates and advanced graphs
 
- ![](https://github.com/kognifai/Kognifai/blob/master/.attachments/Posedion_Graph.jpg)
+ ![](.attachments/Posedion_Graph.jpg)
 
 The Galore database is built upon the concept of streams where all data is queryable either through the built-in advanced Timeseries Query Language (TQL) or through APIs.
 
@@ -69,7 +69,7 @@ Kognifai provides self-service portals for roll out and management of customer s
 
 This SDK provides you  samples and documentation on how to build your own custom connector to integrate with a system that does not support these standard industrial interfaces.
 
- ![](https://github.com/kognifai/Kognifai/blob/master/.attachments/IoT.png)
+ ![](.attachments/IoT.png)
 
 The Connectors feed the Kognifai Edge Gateway which is responsible for data buffering in the case of connectivity loss, for compression, for secure authentication and for transport encryption to the Kognifai cloud endpoints:
 
@@ -91,7 +91,7 @@ The Connectors feed the Kognifai Edge Gateway which is responsible for data buff
 
 The Kognifai platform provides infrastructure for both Edge and Cloud. The secure connectivity is needed among sites, edges, cloud and other platforms.
 
-![](https://github.com/kognifai/Kognifai/blob/master/.attachments/Infrastructure.jpg)
+![](.attachments/Infrastructure.jpg)
 
 #### Related Topics
 - [Infrastructure](https://github.com/kognifai/Infrastructure/blob/master/README.md#infrastructure_documentation)
