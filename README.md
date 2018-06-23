@@ -2,7 +2,7 @@
 
 # About Kognifai                    [![Gitter Join the chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kognifai/Lobby)
 
-Welcome to the Kognifai Software Developer Kit! 
+Welcome to Kognifai Software Developer Kit! 
 
 Kognifai is an industrial platform for accessing data, applying advanced analytics, running applications and accelerating digitalization initiatives in your industrial world. Kognifai is available both as an Edge on-premise installation and as a cloud service, offering secure connectivity and application services to your global assets.
 
@@ -48,7 +48,7 @@ This industrial quality database supports storage, analytics and distribution of
 
  ![](.attachments/Posedion_Graph.jpg)
 
-The Galore database is built upon the concept of streams where all data is queryable either through the built-in advanced Timeseries Query Language (TQL) or through APIs.
+The Galore database is built upon the concept of streams where all data is queryable either through the built-in advanced Time series Query Language (TQL) or through APIs.
 
 In this SDK you will find detailed information on how to access and start using Galore, how to get started using the TQL language and how to use the APIs.
 
@@ -89,7 +89,7 @@ The Connectors feed the Kognifai Edge Gateway which is responsible for data buff
      - [IoT platform security](https://github.com/kognifai/IoT/blob/master/IoT%20Documentation/Overview%20-%20Security.md)
      - [Edge gateway components](https://github.com/kognifai/IoT/blob/master/IoT%20Documentation/Edge%20Gateway%20Components.md)
      - [Register a new device](https://github.com/kognifai/IoT/blob/master/IoT%20Documentation/Deploy-%20register%20a%20new%20edge%20device.md)
-     - [Support for low bandwidht scenarios](https://github.com/kognifai/IoT/blob/master/IoT%20Documentation/Support%20for%20low%20bandwidth%20scenarios.md)
+     - [Support for low bandwidth scenarios](https://github.com/kognifai/IoT/blob/master/IoT%20Documentation/Support%20for%20low%20bandwidth%20scenarios.md)
  
 ### Infrastructure   [![Gitter Join the chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kognifai/Lobby)
 
