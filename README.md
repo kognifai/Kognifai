@@ -4,14 +4,27 @@
 
 Welcome to Kognifai Software Developer Kit! 
 
-Kognifai is an industrial platform for accessing data, applying advanced analytics, running applications and accelerating digitalization initiatives in your industrial world. Kognifai is available both as an Edge on-premise installation and as a cloud service, offering secure connectivity and application services to your global assets.
+Kognifai is open and collaborative digital platform platform for accessing data, applying advanced analytics, running applications and accelerating digitalization initiatives in your industrial world. Kognifai is available both as an Edge on-premise installation and as a cloud service, offering secure connectivity and application services to your global assets.
 
 
 ![image.png](.attachments/Kognifai.png)
  
-The Kognifai ecosystem consists of an IoT Platform, a sensor database, analytic services, web application framework, network infrastructure, identity management, container and hosting services, machine learning platform, APIs, storage and self-service management portals.
+Being an open digital ecosystem Koginfai enables its users to collect, store, analyze, and apply the data (which is generate using KONGSBERG and third-party systems). 
 
-In this SDK you will find documentation and examples on how to get started developing Kognifai App, Services and Connectors.
+The Kognifai ecosystem consists of:
+-an IoT Platform
+-a sensor database 
+-analytic services 
+-web application framework
+-network infrastructure 
+-identity management 
+-container and hosting services
+-machine learning platform
+-APIs 
+-storage 
+-self-service management portals
+
+In this documentaion portal you will find documentation on each components, SDK documentation and examples on how to get started developing Kognifai App, Services and Connectors.
 
 
 ## Poseidon Next – Framework   [![Gitter Join the chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kognifai/Lobby)
