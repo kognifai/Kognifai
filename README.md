@@ -12,17 +12,17 @@ Kognifai is open and collaborative digital platform for accessing data, applying
 Being an open digital ecosystem Koginfai enables its users to collect, store, analyze, and apply the data (which is generate using KONGSBERG and third-party systems). 
 
 The Kognifai ecosystem consists of:
--an IoT Platform
--a sensor database 
--analytic services 
--web application framework
--network infrastructure 
--identity management 
--container and hosting services
--machine learning platform
--APIs 
--storage 
--self-service management portals
+- an IoT Platform
+- a sensor database 
+- analytic services 
+- web application framework
+- network infrastructure 
+- identity management 
+- container and hosting services
+- machine learning platform
+- APIs 
+- storage 
+- self-service management portals
 
 In this documentaion portal you will find documentation on each components, SDK documentation and examples on how to get started developing Kognifai App, Services and Connectors.
 
