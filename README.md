@@ -4,7 +4,7 @@
 
 Welcome to Kognifai Software Developer Kit! 
 
-Kognifai is open and collaborative digital platform platform for accessing data, applying advanced analytics, running applications and accelerating digitalization initiatives in your industrial world. Kognifai is available both as an Edge on-premise installation and as a cloud service, offering secure connectivity and application services to your global assets.
+Kognifai is open and collaborative digital platform for accessing data, applying advanced analytics, running applications and accelerating digitalization initiatives in your industrial world. Kognifai is available both as an Edge on-premise installation and as a cloud service, offering secure connectivity and application services to your global assets.
 
 
 ![image.png](.attachments/Kognifai.png)
