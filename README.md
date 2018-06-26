@@ -9,7 +9,7 @@ Kognifai is open and collaborative digital platform for accessing data, applying
 
 ![image.png](.attachments/Kognifai.png)
  
-Being an open digital ecosystem Koginfai enables its users to collect, store, analyze, and apply the data (which is generate using KONGSBERG and third-party systems). 
+Being an open digital ecosystem Koginfai enables its users to collect, store, analyze, and apply the data (which is generated using Kongsberg and third-party systems). 
 
 The Kognifai ecosystem consists of:
 - an IoT Platform
@@ -29,16 +29,16 @@ In this documentaion portal you will find documentation on each components, SDK 
 
 ## Poseidon Next – Framework   [![Gitter Join the chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kognifai/Lobby)
 
-Poseidon is the Kognifai web application framework, built on Angular, by using the Kognifai Design System. It provides a fast way of developing and deploying new applications to both Kognifai Edge and Kognifai Cloud installation scenarios.
+Poseidon is the Kognifai web application framework, built on Angular, by using the Kognifai Design System. It provides a fast way of developing and deploying new applications on both Kognifai Edge and Kognifai Cloud installation scenarios.
 
-The framework takes responsibility for a range of basic features and is built in a modular way which opens up for different adaption levels.
+The framework takes responsibility for a range of basic features and it is built in a modular way which opens up for different adaption levels.
 
 ![](.attachments/Posedion.jpg)
  
-* Identity Management – Embedded ThinkTecture Identity Server for authentication integration to a range of ID
-*	Responsive Web Design – Support for all screen sizes
-*	Design System – The framework is built on the Kognifai Design System
-*	Edge and Cloud support - 
+* Identity Management – Embedded ThinkTecture Identity Server for authentication  a range of integrated IDs
+*	Responsive Web Design – Support for all screen sizes.
+*	Design System – The framework is built on the Kognifai Design System.
+*	Edge and Cloud support - Support for Edge and cloud-based solution.
 
 In this SDK you will find documentation on how to develop your own Poseidon applications, starting with the Poseidon Developer Edition available from https://npmjs.org and the sample application is also provided.
 
@@ -57,7 +57,7 @@ This industrial quality database supports storage, analytics and distribution of
 *	Time series data – Single values, vectors or matrixes
 *	Alarm & Event data – Indexed, searchable and related text values
 *	Dataset – Larger dataset from high frequency analytic sensors and subsystems
-*	Asset Structures – Mapping of physical industrial plants into structures, supporting templates and advanced graphs
+*	Asset Structures – Mapping physical industrial plants into structures, supporting templates and advanced graphs
 
  ![](.attachments/Posedion_Graph.jpg)
 
@@ -75,15 +75,15 @@ In this SDK you will find detailed information on how to access and start using 
       - [Case Study](https://github.com/kognifai/Galore/blob/master/SDK-documentation/casestudy.md)
 
 ## Kognifai IoT    [![Gitter Join the chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kognifai/Lobby)
-The Kognifai IoT Platform is an industrial solution for securely connecting, managing and integrating remote devices and systems. Targeting everything from embedded sensors to energy production facilities, the platform is capable of scaling to thousands of globally distributed on and offshore installations.
+The Kognifai IoT Platform is an industrial solution for securely connecting, managing and integrating remote devices and systems. Targeting everything from embedded sensors to energy production facilities; the platform is capable of scaling to thousands of globally distributed on and offshore installations.
 
-Kognifai provides self-service portals for roll out and management of customer solutions, as well as a wide range of industrial connectors ensuring safe and reliable connectivity with data sources on the edge. Common connectors available on Kognifai are OPC UA, OPC DA / HDA, ModBus among others.
+Kognifai provides self-service portals for roll out and management of customer solutions, as well as, a wide range of industrial connectors ensuring safe and reliable connectivity with data sources on the Edge. Common connectors available on Kognifai are OPC UA, OPC DA / HDA, ModBus among others.
 
 This SDK provides you  samples and documentation on how to build your own custom connector to integrate with a system that does not support these standard industrial interfaces.
 
  ![](.attachments/IoT.png)
 
-The Connectors feed the Kognifai Edge Gateway which is responsible for data buffering in the case of connectivity loss, for compression, for secure authentication and for transport encryption to the Kognifai cloud endpoints:
+Connectors feed the Kognifai Edge Gateway which is responsible for data buffering in the case of connectivity loss, for compression, for secure authentication and for transport encryption to the Kognifai cloud endpoints:
 
 -	Secure and reliable data transfer from Edge to cloud using AMQP, MQTT or HTTPS over TLS
 -	Authentication towards Kognifai cloud services using certificates or shared secrets
