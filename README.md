@@ -3,9 +3,10 @@
 # About Kognifai                    [![Gitter Join the chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kognifai/Lobby)
 
 Welcome to Kognifai Software Development Kit (SDK)!
+
 As a part of Kongsberg’s open ecosystem, Kognifai™ is an open and collaborative digital platform for accessing data, applying advanced analytics, running applications and accelerating digitalization initiatives in your industrial world. 
 
-## What can you achieve with Kognifai? ##
+## What can you achieve with Kognifai? 
 -	Kognifai will help you accelerate the digitalization of your industry-specific solutions
 
 -	With Kognifai, you can gain access to KONGSBERG’s extensive portfolio of standalone solutions as well as third-party solutions
@@ -18,8 +19,8 @@ As a part of Kongsberg’s open ecosystem, Kognifai™ is an open and collaborat
 
 -	You will get a highly secured and protected development environment by the highest level of cybersecurity and a strict application certification process for all third-party services and applications
 
-## Kognifai and its components ## 
-Kognifai is available in both, as an Edge on premise installation, and as a cloud service, offering secure connectivity and application services to your global assets.
+## Kognifai and its components 
+Kognifai is available for both, as an Edge on premise installation, and as a cloud service, offering secure connectivity and application services to your global assets.
 
 Being an open digital ecosystem Koginfai enables its users to collect, store, analyze, and apply the data (which is generated using Kongsberg and third-party systems). 
 
@@ -36,7 +37,7 @@ The Kognifai ecosystem consists of:
 -	Storage
 -	Self-service management portals
 
-In this documentaion portal you will find documentation on each component, SDK documentation, and examples on how to get started developing Kognifai App, Services and Connectors.
+In the Kognifai documentaion,  you will find documentation on each component, SDK documentation, and examples on how to get started developing Kognifai App, Services and Connectors.
 
 Together, all these components fit into an architectural diagram like this (See the image below) and make it a complete digital platform called “Kognifai”.
 
@@ -57,7 +58,7 @@ The framework takes responsibility for a range of basic features and it is built
 
 In this SDK you will find documentation on how to develop your own Poseidon applications, starting with the Poseidon Developer Edition available from https://npmjs.org and the sample application is also provided.
 
-#### Related Topics   
+#### Explore these topics to know more about Poseidon Next Framework  
 -  [Poseidon Next – Framework](https://github.com/kognifai/PoseidonNext-Framework/blob/master/README.md) 
     - [Developers Getting Started page](https://github.com/kognifai/PoseidonNext-Framework/blob/master/Developers-Getting-Started.md)
     - [Services](https://github.com/kognifai/PoseidonNext-Framework/blob/master/Services.md)
@@ -80,7 +81,7 @@ The Galore database is built upon the concept of streams where all data is query
 
 In this SDK you will find detailed information on how to access and start using Galore, how to get started using the TQL language and how to use the APIs.
 
-#### Related Topics
+#### Explore these topics to know more about Galore
  -  [Galore](https://github.com/kognifai/Galore/blob/master/README.md)
       - [Galore Asset Model](https://github.com/kognifai/Galore/blob/master/Galore-Documentation/readme.md)
       - [Streams](https://github.com/kognifai/Galore/blob/master/Galore-Documentation/streams.md)
