@@ -103,7 +103,7 @@ Connectors feed the Kognifai Edge Gateway which is responsible for data bufferin
 
 -	Secure and reliable data transfer from Edge to cloud using AMQP, MQTT or HTTPS over TLS
 -	Authentication towards Kognifai cloud services using certificates or shared secrets
-- Data buffering to support disk offline scenarios
+-       Data buffering to support disk offline scenarios
 -	Reliable data transfer over unreliable communication channels
 -	Logging, health and security data reporting
 
@@ -164,16 +164,35 @@ Explore these topics to know all those possibilities:
 
 
 
-Poseidon Dev Host
-Installation
-In order to start developing Poseidon Applications, you should get poseidon-dev-host. You can install from NPM globally:
+# Poseidon Dev Host
+
+Prerquisits:
+
+-- NodeJs 8 or greater --
+
+## Installation
+
+In order to start developing Poseidon Applications, you should get poseidon-dev-host. You can install it from NPM globally:
+
+''''
 npm install @kognifai/poseidon-dev-host@latest -g
-Hosting
+''''
+
+## Hosting
+
 After you've globally installed poseidon-dev-host you can start it with the following command:
+
+''''
 poseidon-dev-host
+''''
+
 The console shows a message that it is now listening on http://localhost:8080. Opening the browser on this URL currently does not load anything as you need to get the Poseidon applications. Stop the dev-host now and proceed with the next step.
-Installing applications
+
+## Installing applications
+
 Start by creating an empty directory in your local work directory:
+
+''''
 mkdir C:\kognifai\applications
 cd C:\kognifai\applications
 You can use NPM to install the applications:
@@ -181,21 +200,37 @@ npm install @kognifai/poseidon-home@latest
 npm install @kognifai/poseidon-user-profile@latest
 npm install @kognifai/poseidon-user-administration@latest
 npm install @kognifai/poseidon-test-pages@latest
-You can now tell poseidon-dev-host to load and host these applications: (Remember stop the poseidon-dev-host if it is currently running. You can do that by pressing Ctrl+C in the console)
+''''
+
+You can now tell poseidon-dev-host to load and host these applications: 
+
 poseidon-dev-host --applications "C:\kognifai\applications"
-The --applications parameter specifies the directory in which poseidon-dev-host will look for applications (including subfolder /node_modules@kognifai). An application is considered a directory which contains content files (html pages, scripts, styles, assets, etc) together with application manifest file (app.manifest.json). When the command is executed, the host should output a message listing all the applications' manifests it found, similar to:
+
+- Note- - Remember to stop the poseidon-dev-host if it is currently running. You can do that by pressing Ctrl+C in the console)
+
+The --applications parameter specifies the directory in which poseidon-dev-host will look for applications (including subfolder /node_modules@kognifai). An application is considered a directory which contains content files (html pages, scripts, styles, assets, etc) together with application manifest file (app.manifest.json).
+When the command is executed, the host should output a message listing all the applications' manifests it found, similar to:
 Hosting applications from C:\kognifai\applications
 Loading application manifests
-	Home
-	Test Pages
-	User Administration
-	User Profile
-Open a browser at http://localhost:8080 in order to see the Poseidon platform. The host comes with a developer friendly security solution. Type in any username and password to log in. Then the platform is loaded, note the left hand side navigation menu with applications:
+	- Home
+	- Test Pages
+	- User Administration
+	- User Profile
+
+Open a browser at http://localhost:8080 in order to see the Poseidon platform. The host comes with a developer friendly security solution. Type in any username and password to log in. 
+
+Then the platform is loaded, note the left hand side navigation menu with applications:
  
-Creating a new Poseidon Application
-Installing Yeoman
+## Creating a new Poseidon Application
+   A new application on Poseidon applicaiton can be 
+
+## Installing Yeoman
 If you have not yet installed Yeoman, you can do so by executing this command:
+
+'''
 npm install -g yo
+
+
 Installing the Yeoman generator
 You can install the kognifai-poseidon Yeoman generator from NPM:
 npm install -g @kognifai/generator-poseidon@latest
