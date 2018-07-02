@@ -7,7 +7,7 @@ Welcome to Kognifai Software Development Kit (SDK)!
 As a part of Kongsberg’s open ecosystem, Kognifai™ is an open and collaborative digital platform for accessing data, applying advanced analytics, running applications and accelerating digitalization initiatives in your industrial world. 
 
 ## What can you achieve with Kognifai? 
--	Kognifai will help you accelerate the digitalization of your industry-specific solutions
+-	Kognifai helps you accelerate the digitalization of your industry-specific solutions
 
 -	With Kognifai, you can gain access to KONGSBERG’s extensive portfolio of standalone solutions as well as third-party solutions
 
