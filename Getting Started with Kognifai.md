@@ -7,7 +7,7 @@ NodeJs 8 or greater
 
 After installing NodeJs, the process of applicaiton development starts with:
 
-- Installing Poseidon Dev Host
+- [Installing Poseidon Dev Host ] (Getting Started with Kognifai.md#poseidon-dev-host)
 - Getting the Host URL
 - Installing and Hosting Applications 
 - Creating your own Poseidon Application 
