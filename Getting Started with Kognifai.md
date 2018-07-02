@@ -14,6 +14,8 @@ After installing NodeJs, the process of applicaiton development starts with:
 - Using Kognifai’s Design System 
 - Adding Services and Modules 
 
+Let's go through these steps in detail:
+
 # Prerequisites 
 [NodeJs 8 or greater](https://nodejs.org/)
 
