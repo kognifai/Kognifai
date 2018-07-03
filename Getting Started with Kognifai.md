@@ -128,7 +128,7 @@ Next step is to explore the [Services](Services.md) and tools, they are a part o
 Once your app is ready, you can do more with Kognifai using IoT and Galore components. 
 Explore these topics to know all those possibilities:
 
--	[Kognifai IoT](kognifai/IoT)
+-	[Kognifai IoT](https://github.com/kognifai/IoT)
 -	[Connector SDK](https://github.com/kognifai/IoT/blob/master/SDK%20Documentation/readme.md)
 -	[Edge connectors and endpoints overview](https://github.com/kognifai/IoT/blob/master/IoT%20Documentation/Overview%20%20Connectors%20and%20Endpoints%20.md)
 -	[Galore](https://github.com/kognifai/Galore)
