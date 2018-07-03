@@ -82,7 +82,7 @@ The Galore database is built upon the concept of streams where all data is query
 In this SDK you will find detailed information on how to access and start using Galore, how to get started using the TQL language and how to use the APIs.
 
 ### Development Stack SDK
-The Development Stack SDK is a complete package that takes care of installing and configuring the Poseidon Next framework and the Galore packages. Access the [Dev Stack SDK](https://github.com/kognifai/Galore/blob/master/SDK-documentation/readme.md) to install and configure packages and build your own applications on Galore. 
+The Development Stack SDK is a complete package that takes care of installing and configuring the Poseidon Next framework and the Galore packages. Access the [Dev Stack SDK](https://github.com/kognifai/Galore/blob/master/SDK-documentation/readme.md) to install and configure packages to build your own applications using Galore. 
 
 #### Explore these topics to know more about Galore
  -  [Galore](https://github.com/kognifai/Galore/blob/master/README.md)
