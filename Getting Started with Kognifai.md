@@ -70,7 +70,7 @@ Loading application manifests
 ```
 Open a browser at http://localhost:8080 in order to see the Poseidon platform. The host comes with a developer friendly security solution. Type in any username and password to log in. Then the platform is loaded, you can see the left hand side navigation menu with applications:
 
-![image.png](/Public-documentation/images/image-43ec7967-c093-468b-a63e-e64075349bdc.png)
+![image.png](.attachments/image-43ec7967-c093-468b-a63e-e64075349bdc.png)
 
 # Creating a new Poseidon Application
 You can create new Posiedon applications by using Yeoman generator, a scaffolding tool that helps you build web applicaitons.  
@@ -128,16 +128,16 @@ Next step is to explore the [Services](Services.md) and tools, they are a part o
 Once your app is ready, you can do more with Kognifai using IoT and Galore components. 
 Explore these topics to know all those possibilities:
 
--	Kognifai IoT 
--	Connector SDK
--	Edge connectors and endpoints overview
--	Galore
--	Galore Asset Model
--	Streams
--	TQL Syntax
--	Node Selector
--	Pipeline Operations
--	Case Study
+-	[Kognifai IoT](kognifai/IoT)
+-	[Connector SDK](https://github.com/kognifai/IoT/blob/master/SDK%20Documentation/readme.md)
+-	[Edge connectors and endpoints overview](https://github.com/kognifai/IoT/blob/master/IoT%20Documentation/Overview%20%20Connectors%20and%20Endpoints%20.md)
+-	[Galore](https://github.com/kognifai/Galore)
+-	[Galore Asset Model](https://github.com/kognifai/Galore/blob/master/Galore-Documentation/readme.md)
+-	[Streams](https://github.com/kognifai/Galore/blob/master/Galore-Documentation/streams.md)
+-	[TQL Syntax](https://github.com/kognifai/Galore/blob/master/Galore-Documentation/TQL%20Syntax.md)
+-	[Node Selector](https://github.com/kognifai/Galore/blob/master/Galore-Documentation/Node%20Selector.md)
+-	[Pipeline Operations](https://github.com/kognifai/Galore/blob/master/Galore-Documentation/Pipeline%20Operations.md)
+-	[Case Study](https://github.com/kognifai/Galore/blob/master/Galore-Documentation/casestudy.md)
 
 
 
