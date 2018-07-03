@@ -45,7 +45,7 @@ Together, all these components fit into an architectural diagram like this (See 
 
 ## Poseidon Next – Framework   [![Gitter Join the chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kognifai/Lobby)
 
-Poseidon is the Kognifai web application framework, built on Angular, by using the Kognifai Design System. It provides a fast way of developing and deploying new applications on both Kognifai Edge and Kognifai Cloud installation scenarios.
+Poseidon is the Kognifai web application framework, built on Angular, by using the Kognifai Design System. It provides a fast way of developing and deploying new applications on both KONGSBERG Edge and Kognifai Cloud installation scenarios.
 
 The framework takes responsibility for a range of basic features and it is built in a modular way which opens up for different adaption levels.
 
