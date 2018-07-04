@@ -22,7 +22,7 @@ As a part of Kongsberg’s open ecosystem, Kognifai™ is an open and collaborat
 ## Kognifai and its components 
 Kognifai is available for both, as an Edge on premise installation, and as a cloud service, offering secure connectivity and application services to your global assets.
 
-Being an open digital ecosystem Koginfai enables its users to collect, store, analyze, and apply the data (which is generated using Kongsberg and third-party systems). 
+Being an open digital ecosystem Kognifai enables its users to collect, store, analyze, and apply the data (which is generated using Kongsberg and third-party systems). 
 
 The Kognifai ecosystem consists of:
 -	An IoT Platform [Kognifai IoT](https://github.com/kognifai/IoT)
@@ -37,7 +37,7 @@ The Kognifai ecosystem consists of:
 -	Storage
 -	Self-service management portals
 
-In the Kognifai documentaion,  you will find documentation on each component, SDK documentation, and examples on how to get started developing Kognifai App, Services and Connectors.
+In the Kognifai documentation,  you will find documentation on each component, SDK documentation, and examples on how to get started developing Kognifai App, Services and Connectors.
 
 Together, all these components fit into an architectural diagram like this (See the image below) and make it a complete digital platform called “Kognifai”.
 
