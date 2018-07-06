@@ -106,7 +106,7 @@ Connectors feed the Kognifai Edge Gateway which is responsible for data bufferin
 
 -	Secure and reliable data transfer from Edge to cloud using AMQP, MQTT or HTTPS over TLS
 -	Authentication towards Kognifai cloud services using certificates or shared secrets
--       Data buffering to support disk offline scenarios
+- Data buffering to support disk offline scenarios
 -	Reliable data transfer over unreliable communication channels
 -	Logging, health and security data reporting
 
