@@ -74,7 +74,7 @@ Open a browser at http://localhost:8080 in order to see the Poseidon platform. T
 ![image.png](.attachments/image-43ec7967-c093-468b-a63e-e64075349bdc.png)
 
 # Creating a new Poseidon Application
-You can create new Posiedon applications by using Yeoman generator, a scaffolding tool that helps you build web applicaitons.  
+Once the Poseidon Dev Host environment is set, you can create new Posiedon applications by using Yeoman generator, a scaffolding tool that helps you build web applicaitons.  
 
 ## Installing Yeoman
 If you have not yet installed Yeoman, you can do so by executing this command:
